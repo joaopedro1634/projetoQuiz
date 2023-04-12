@@ -4,7 +4,8 @@ import random
 def menu():
     continuar = 1
     while continuar:
-        continuar = int(input('0. Sair \n' +
+        continuar = int(input('Escolha uma opção\n'
+                              '0. Sair \n' +
                               '1. Jogar\n'))
         if continuar:
             jogo_quiz()
