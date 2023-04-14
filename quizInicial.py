@@ -103,7 +103,7 @@ def jogo_quiz():
                              'b': 'A Pedra da Ressurreição',
                              'c': 'A Varinha das Varinhas',
                              'd': 'NDA'},
-            'Resposta_Certa': 'b'
+            'Resposta_Certa': 'c'
         },
         'Pergunta 15': {
             'pergunta': 'Afinal, qual é a família na qual Credence realmente faz parte?',
